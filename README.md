@@ -1,4 +1,4 @@
-# Predicting-Energy-Output
+# Predicting-Combined-Cycle_Power-Plant
 
 This project was created for a learning purpose. 
 
@@ -33,6 +33,7 @@ The aim is to fit different algorithms to predict Energy Output, evaluate the mo
 - Random Forest
 
 ## Results
-The metric applied to evaluate performance was R2-adjusted for all the ML Algorithms. **Random Forest performed better (96.1)** than other ML algorithms as following: Support Vector Regression (94.8), Polinomial Regression (94.5), Multiple Linear Regression (93.2), and Decision Tree Regression (92.2) in order to predict Energy Output based on the features.   
+The metric applied to evaluate performance was R2-adjusted for all the ML Algorithms. **Random Forest performed better (96.1)** than other ML algorithms as following: Support Vector Regression (94.8), Polinomial Regression (94.5), Multiple Linear Regression (93.2), and Decision Tree Regression (92.2) in order to predict Energy Output (EP) based on the features.   
 
-
+## References
+The codes were based on the course Machine Learning from A-Z: Hands-on Python & R in Data Science from Udemy with some adaptations.
